@@ -7,7 +7,7 @@ def print_title():
     |                                       |
     |       Welcome to Number Guessing!     |
     |            Calculator and More!       |
-    |              By [Claye Kelly]         |
+    |              By [RTXHeadroom]         |
     |                                       |
     |_______________________________________|
     """)
